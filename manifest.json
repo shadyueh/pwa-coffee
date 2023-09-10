@@ -1,0 +1,38 @@
+{
+  "name": "Dev's Coffee",
+  "short_name": "DevCoffee",
+  "description": "Information about types of coffee. Icons designed by Freepik (http://www.freepik.com/)",
+  "start_url": "/",
+  "lang": "pt-BR",
+  "theme_color": "#794c09",
+  "background_color": "#fdfdfd",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/icons/coffee_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/icons/coffee_256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "images/icons/coffee_128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "images/icons/coffee_064.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "images/icons/coffee_032.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ]
+}
